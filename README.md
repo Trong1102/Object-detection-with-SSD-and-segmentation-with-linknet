@@ -1,1 +1,1 @@
-# Object-detection-with-SSD-and-segmentation-with-linknet
+#SSD Object Detection and linknet segmentation
