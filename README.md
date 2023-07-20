@@ -31,5 +31,5 @@ Decoding part:
 - Information from the encoding layers is transmitted over a short path and connected to the decoding layers to combine information from high- and low-level features, producing the final segmentation result.
 
 ## Train model use Colab
-### [Train model with Cityscapes dataset]()
-### [Train model with Brain tumor dataset]()
+### [Train model with Cityscapes dataset](https://github.com/Trong1102/Segmemtation-With-Linknet/blob/main/Brain_tumor.ipynb)
+### [Train model with Brain tumor dataset](https://github.com/Trong1102/Segmemtation-With-Linknet/blob/main/Cityscapes.ipynb)
