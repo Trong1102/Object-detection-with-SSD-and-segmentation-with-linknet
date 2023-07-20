@@ -2,6 +2,7 @@
 ## Dataset
 ### [Cityscapes Pair](https://www.kaggle.com/datasets/dansbecker/cityscapes-image-pairs)
 This dataset has 2975 training images files and 500 validation image files. Each image file is 256x512 pixels, and each file is a composite with the original photo on the left half of the image, alongside the labeled image (output of semantic segmentation) on the right half.
+
 ![example](https://github.com/Trong1102/Segmemtation-With-Linknet/assets/86673103/6a78167a-a78d-4d0b-9bbd-b2ca482d45f0)
 
 ### [Brain Tumor](https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation)
